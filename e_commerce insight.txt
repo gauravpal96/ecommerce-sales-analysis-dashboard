@@ -1,0 +1,23 @@
+Data Analyst Insights
+Top profit city: New York (62K)
+Top loss cities: Philadelphia (-13.8K), Houston (-10.1K)
+Top profit states: California (76K), New York (74K)
+Top loss states: Texas (-25.7K), Ohio (-16.9K)
+Highest profitable region: West.
+Standard Class shipping dominates (59.7%) – slowest mode.
+Office Supplies category accounts for 60.5% of total units.
+Consumer segment leads (51.9%), followed by Corporate (30.2%) and Home Office (17.8%).
+High discount (>30%) and long delivery (~7 days) are linked with losses in cities like Philadelphia and Houston.
+Monthly trends: Profit peaks in March, May, August and December.
+Top customer: William Bro (37 orders).
+Most ordered product: Staples (215 units).
+Overall margin: 12%.
+
+Business Analyst Insights
+Focus on improving delivery time in loss-making states (Texas, Ohio, Pennsylvania).
+Re-evaluate discount policies; heavy discounting is causing losses.
+High discounts on low-demand products are not converting into profits.
+Plan inventory and marketing campaigns around peak profit months (Mar, May, Aug, Dec).
+Strengthen relationships with top customers through loyalty programs.
+Review Office Supplies category strategy: High volume, but profitability can be optimized.
+Explore faster shipping methods to balance speed and 
